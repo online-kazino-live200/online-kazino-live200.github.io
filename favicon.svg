@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Раунд за раундом">
+  <rect width="48" height="48" rx="11" fill="#5f6b22"/>
+  <path d="M12 30l7-7 6 4 9-13" fill="none" stroke="#f7f8ec" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="35" cy="15" r="3" fill="#f7f8ec"/>
+  <circle cx="24" cy="38" r="2.4" fill="#d6a93f"/>
+</svg>
